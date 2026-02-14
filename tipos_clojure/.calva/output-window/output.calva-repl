@@ -1,0 +1,27 @@
+10/3
+clj꞉tipos-clojure.core꞉> 
+clojure.lang.Ratio
+clj꞉tipos-clojure.core꞉> 
+java.lang.Long
+clj꞉tipos-clojure.core꞉> 
+java.lang.Double
+clj꞉tipos-clojure.core꞉> 
+clojure.lang.Ratio
+clj꞉tipos-clojure.core꞉> 
+10N
+clj꞉tipos-clojure.core꞉> 
+clojure.lang.BigInt
+clj꞉tipos-clojure.core꞉> 
+clojure.lang.BigInt
+clj꞉tipos-clojure.core꞉> 
+java.math.BigDecimal
+clj꞉tipos-clojure.core꞉> 
+java.lang.String
+clj꞉tipos-clojure.core꞉> 
+nil
+clj꞉tipos-clojure.core꞉> 
+clojure.lang.PersistentVector
+clj꞉tipos-clojure.core꞉> 
+clojure.core$println
+clj꞉tipos-clojure.core꞉> 
+; nREPL Connection was closed

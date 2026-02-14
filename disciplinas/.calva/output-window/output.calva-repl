@@ -1,0 +1,46 @@
+"ESTRUTURA DE DADOS, INTELIGENCIA ARTIFICIAL"
+clj꞉disciplinas.core꞉> 
+"ESTRUTURA DE DADOS, INTELIGENCIA ARTIFICIAL"
+clj꞉disciplinas.core꞉> 
+nil
+clj꞉disciplinas.core꞉> 
+nil
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/transformar-nome-disciplina-maisculo
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/transformar-disciplinas-em-string
+clj꞉disciplinas.core꞉> 
+"ESTRUTURA DE DADOS, INTELIGENCIA ARTIFICIAL"
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/nomes-disciplinas-restantes
+clj꞉disciplinas.core꞉> 
+; Syntax error compiling at (src/disciplinas/core.clj:78:1).
+; Unable to resolve symbol: disciplinas in this context
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/nomes-disciplinas-restantes
+clj꞉disciplinas.core꞉> 
+; Syntax error compiling at (src/disciplinas/core.clj:78:1).
+; Unable to resolve symbol: disciplinas in this context
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/disciplinas
+clj꞉disciplinas.core꞉> 
+; Execution error (ArityException) at disciplinas.core/eval10370 (REPL:78).
+; Wrong number of args (1) passed to: disciplinas.core/nomes-disciplinas-restantes
+clj꞉disciplinas.core꞉> 
+; Execution error (ArityException) at disciplinas.core/eval10372 (REPL:78).
+; Wrong number of args (1) passed to: disciplinas.core/nomes-disciplinas-restantes
+clj꞉disciplinas.core꞉> 
+; Execution error (IllegalArgumentException) at disciplinas.core/nomes-disciplinas-restantes (REPL:70).
+; Don't know how to create ISeq from: disciplinas.core$disciplinas
+clj꞉disciplinas.core꞉> 
+"ESTRUTURA DE DADOS, INTELIGENCIA ARTIFICIAL"
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/transform
+clj꞉disciplinas.core꞉> 
+{:name "Socrates", :age 40, :hair-color "gray"}
+clj꞉disciplinas.core꞉> 
+#'disciplinas.core/transform
+clj꞉disciplinas.core꞉> 
+{:name "Socrates", :age 40, :hair-color "gray"}
+clj꞉disciplinas.core꞉> 
+; nREPL Connection was closed

@@ -1,0 +1,44 @@
+{:nome "Felipe", :sobrenome "Godoy"}
+clj꞉mapas.core꞉> 
+; Syntax error compiling at (src/mapas/core.clj:14:1).
+; Unable to resolve symbol: compras in this context
+clj꞉mapas.core꞉> 
+#'mapas.core/compras
+clj꞉mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 5}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mapas.core꞉> 
+{:quantidade 2, :preco 5}
+clj꞉mapas.core꞉> 
+nil
+clj꞉mapas.core꞉> 
+{:quantidade 2, :preco 5}
+clj꞉mapas.core꞉> 
+:tomate->quantidade
+clj꞉mapas.core꞉> 
+:tomate->:quantidade
+clj꞉mapas.core꞉> 
+{:quantidade 2, :preco 5}
+clj꞉mapas.core꞉> 
+{:quantidade 2, :preco 5}
+clj꞉mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 5}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mapas.core꞉> 
+{:quantidade 2, :preco 5}
+clj꞉mapas.core꞉> 
+2
+clj꞉mapas.core꞉> 
+nil
+clj꞉mapas.core꞉> 
+{:quantidade 0, :preco 0}
+clj꞉mapas.core꞉> 
+2
+clj꞉mapas.core꞉> 
+0
+clj꞉mapas.core꞉> 
+2
+clj꞉mapas.core꞉> 
+5
+clj꞉mapas.core꞉> 
+(nil nil nil)
+clj꞉mapas.core꞉> 
+; nREPL Connection was closed

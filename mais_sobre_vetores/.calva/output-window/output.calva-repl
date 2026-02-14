@@ -1,0 +1,26 @@
+#'mais-sobre-vetores.core/imprime-terceiro-nome
+clj꞉mais-sobre-vetores.core꞉> 
+"Desconhecida"
+clj꞉mais-sobre-vetores.core꞉> 
+#'mais-sobre-vetores.core/substituir-nome
+clj꞉mais-sobre-vetores.core꞉> 
+["Jose" "Joao" "Maria"]
+clj꞉mais-sobre-vetores.core꞉> 
+[nil "Joao" "Maria"]
+clj꞉mais-sobre-vetores.core꞉> 
+#'mais-sobre-vetores.core/substituir-nome
+clj꞉mais-sobre-vetores.core꞉> 
+; Execution error (IllegalArgumentException) at mais-sobre-vetores.core/substituir-nome (REPL:7).
+; assoc expects even number of arguments after map/vector, found odd number
+clj꞉mais-sobre-vetores.core꞉> 
+#'mais-sobre-vetores.core/substituir-nome
+clj꞉mais-sobre-vetores.core꞉> 
+[nil "Joao" "Maria"]
+clj꞉mais-sobre-vetores.core꞉> 
+#function[mais-sobre-vetores.core/substituir-nome]
+clj꞉mais-sobre-vetores.core꞉> 
+#function[mais-sobre-vetores.core/substituir-nome]
+clj꞉mais-sobre-vetores.core꞉> 
+["Felipe" "Joao" "Maria"]
+clj꞉mais-sobre-vetores.core꞉> 
+; nREPL Connection was closed

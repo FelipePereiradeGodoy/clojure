@@ -1,0 +1,1 @@
+["^ ","~$taxa-de-entrega",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$self-testing-code.core","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret",["^4",["~:nat-int","~:pos-int"]],"~:arglist-str","[valor-da-compra]"]],"~:type","~:fn"],"~:filename","/home/felipe/meus_projetos/clojure/self-testing-code/src/self_testing_code/core.clj"]

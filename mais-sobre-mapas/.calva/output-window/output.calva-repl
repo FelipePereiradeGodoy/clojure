@@ -1,0 +1,40 @@
+; Syntax error compiling at (src/mais_sobre_mapas/core.clj:18:1).
+; Unable to resolve symbol: compras in this context
+clj꞉mais-sobre-mapas.core꞉> 
+#'mais-sobre-mapas.core/compras
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 5}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+; Execution error (ClassCastException) at mais-sobre-mapas.core/eval10272 (REPL:21).
+; class clojure.lang.PersistentArrayMap cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.PersistentArrayMap and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 5},
+ :arroz {:quantidade 1, :preco 4},
+ :feijao {:quantidade 2, :preco 10},
+ :alface {:quantidade 2, :preco 8}}
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 5},
+ :arroz {:quantidade 1, :preco 4},
+ :feijao {:quantidade 2, :preco 10},
+ :alface {:quantidade 2, :preco 8}}
+clj꞉mais-sobre-mapas.core꞉> 
+[1 2]
+clj꞉mais-sobre-mapas.core꞉> 
+{:arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+{:feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 4, :preco 10}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+40
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate nil, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 3, :preco 5}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+{:nome "Marcio", :idade 40}
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 6}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 
+{:tomate {:quantidade 2, :preco 10}, :arroz {:quantidade 1, :preco 4}, :feijao {:quantidade 2, :preco 10}}
+clj꞉mais-sobre-mapas.core꞉> 

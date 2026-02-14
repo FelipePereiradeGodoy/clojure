@@ -1,0 +1,101 @@
+#'calculo-imc.core-test/valor-imc
+clj꞉calculo-imc.core-test꞉> 
+; Syntax error compiling at (test/calculo_imc/core_test.clj:16:24).
+; Unable to resolve symbol: indicador-imc in this context
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/indicador-imc
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+; Syntax error compiling at (test/calculo_imc/core_test.clj:0:0).
+; Can't take value of a macro: #'clojure.test/deftest
+clj꞉calculo-imc.core-test꞉> 
+; Syntax error compiling at (test/calculo_imc/core_test.clj:0:0).
+; Can't take value of a macro: #'clojure.test/testing
+clj꞉calculo-imc.core-test꞉> 
+()
+clj꞉calculo-imc.core-test꞉> 
+; Syntax error compiling at (test/calculo_imc/core_test.clj:0:0).
+; Can't take value of a macro: #'clojure.test/testing
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+; Syntax error compiling at (test/calculo_imc/core_test.clj:0:0).
+; Can't take value of a macro: #'clojure.test/testing
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/indicador-imc
+clj꞉calculo-imc.core-test꞉> 
+:acima-peso
+clj꞉calculo-imc.core-test꞉> 
+:peso-ideal
+clj꞉calculo-imc.core-test꞉> 
+:baixo-peso
+clj꞉calculo-imc.core-test꞉> 
+; Running test: valor-imc-test…
+; 3 tests finished, all passing 👍, ns: 1, vars: 1
+clj꞉calculo-imc.core-test꞉> 
+nil
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+; Running test: valor-imc-test…
+; 3 tests finished, all passing 👍, ns: 1, vars: 1
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+; Running test: valor-imc-test…
+; 3 tests finished, all passing 👍, ns: 1, vars: 1
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core/valor-imc
+clj꞉calculo-imc.core꞉> 
+#'calculo-imc.core/indicador-imc
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+; Running test: valor-imc-test…
+; 3 tests finished, all passing 👍, ns: 1, vars: 1
+clj꞉calculo-imc.core꞉> 
+#'calculo-imc.core-test/valor-imc-test
+clj꞉calculo-imc.core-test꞉> 
+; Syntax error compiling at (test/calculo_imc/core_test.clj:0:0).
+; Can't take value of a macro: #'clojure.test/testing
+clj꞉calculo-imc.core-test꞉> 
+#'calculo-imc.core/imc-max-para-peso-baixo
+clj꞉calculo-imc.core꞉> 
+#'calculo-imc.core/imc-max-para-peso-ideal
+clj꞉calculo-imc.core꞉> 
+; Syntax error compiling at (src/calculo_imc/core.clj:16:13).
+; Unable to resolve symbol: calcular-imc in this context
+clj꞉calculo-imc.core꞉> 
+; Syntax error compiling at (src/calculo_imc/core.clj:16:13).
+; Unable to resolve symbol: calcular-imc in this context
+clj꞉calculo-imc.core꞉> 
+#'calculo-imc.core/calcular-imc
+clj꞉calculo-imc.core꞉> 
+#'calculo-imc.core/indicador-imc
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+:peso-ideal
+clj꞉calculo-imc.core꞉> 
+:acima-peso
+clj꞉calculo-imc.core꞉> 
+; nREPL Connection was closed

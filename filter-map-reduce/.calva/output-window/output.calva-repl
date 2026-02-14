@@ -1,0 +1,25 @@
+1
+clj꞉filter-map-reduce.core꞉> 
+"[\"Marcio\"]"
+clj꞉filter-map-reduce.core꞉> 
+; Syntax error compiling at (src/filter_map_reduce/core.clj:40:1).
+; Unable to resolve symbol: lentgh in this context
+clj꞉filter-map-reduce.core꞉> 
+; Syntax error compiling at (src/filter_map_reduce/core.clj:40:1).
+; Unable to resolve symbol: length in this context
+clj꞉filter-map-reduce.core꞉> 
+6
+clj꞉filter-map-reduce.core꞉> 
+#'filter-map-reduce.core/tamanho-medio-dos-nomes
+clj꞉filter-map-reduce.core꞉> 
+5
+clj꞉filter-map-reduce.core꞉> 
+#'filter-map-reduce.core/tamanho-medio-dos-nomes
+clj꞉filter-map-reduce.core꞉> 
+5
+clj꞉filter-map-reduce.core꞉> 
+#'filter-map-reduce.core/tamanho-medio-dos-nomes
+clj꞉filter-map-reduce.core꞉> 
+16/3
+clj꞉filter-map-reduce.core꞉> 
+; nREPL Connection was closed
